@@ -19,3 +19,21 @@ So I created my own:
 
 The created file can be ordered at JCBPCB and fits. I ordered
 Missing files for MeArm v3.0 robot arm
+
+## Vocabulary and abbreviations
+
+- IDC - insulation displacement connector
+- PTH - pin through hole
+- PH 2.54 - pin header with 0.1" or 2.54mm distance
+- FH - female header
+- DC3 - not found yet
+- boxheader
+
+## Pinout
+
+1. '-' negative
+2. '+' plus 5V
+3. B - bottom
+4. L - left
+5. R - right
+6. G - gripper
