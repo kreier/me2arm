@@ -13,11 +13,16 @@ This edition has many previous issues fixed. It only introduces 2 new problems:
   
 2. It needs a PCB for the bottom. The latter one needs to be ordered somewhere else, not with the laser cut, and the gerber file is not yet publicly released.
 
+![MeArm v3.0](v3/mearm3.jpg)
+
 So I created my own:
+
+![PCB MeArm](pcb/pcb_v3.jpg)
 
 ## PCB for v3.0
 
-The created file can be ordered at JCBPCB and fits. I ordered
+The created file can be ordered at [JLCPCB](https://jlcpcb.com/) and fits. I ordered ... let's see if it fits. The 3D print had to be adjusted, delivery is arriving soon I hope (corona).
+
 Missing files for MeArm v3.0 robot arm
 
 ## Vocabulary and abbreviations
