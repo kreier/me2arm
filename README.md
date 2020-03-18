@@ -1,4 +1,13 @@
-# MeArm
+# Me2Arm - open source robot arm, based on MeArm v3.0
+
+> 2020/03/18
+
+Still a work in progress. Details in history. Goal is fork of the MeArm v3.0 with M3 screws and a control board with the blue pill (STM32F103C8T6 - 32bit!). All files should be open source, including the PCBs.
+
+Progress so far:
+- 2020/03/18 first PCB soldered, connected
+- 2020/03/16 PCB from JLCPCB arrives in Vietnam, and it fits!
+- 2020/03/01 PCB ordered
 
 This successful product is used worldwide. Some chinese shops still sell the flawed v0.4 as set cut from 2mm acrylic with all nuts and screws. It's time to upgrade.
 
